@@ -27,3 +27,34 @@ apply and expand my skills.
 - Git/Github/Github Actions
 - React-hook-form, Formik
 - Storybook / loki
+
+## Soft skills:
+- Responsible, hardworking and interested in IT.
+- Strong interpersonal and communication skills, able to work under pressure and handle multiple task,
+  result and goal oriented, eager to work, attentive and easy learning.
+- Easily find a common language with everyone.
+
+## Code Examples
+
+```
+export const taskAPI = {
+    getTasks(todolistId:string){
+        return instance.get<TaskResponseType>(`todo-lists/${todolistId}/tasks`)
+    },
+    createTask(todolistId:string,title:string){
+        return instance.post<ResponseType<{item:TaskType}>>(`todo-lists/${todolistId}/tasks`,{title})
+    },
+    deleteTask(todolistId:string,taskId:string){
+        return instance.delete<ResponseType>(`todo-lists/${todolistId}/tasks/${taskId}`)
+    },
+    updateTask(todolistId:string,taskId:string,model:UpdateTaskType){
+        return instance.put<ResponseType>(`todo-lists/${todolistId}/tasks/${taskId}`,model)
+    }
+}
+
+```
+
+
+## Experience
+
+On my [GitHub](https://github.com/chepeLove "GitHub") you can find the projects 'Social Network', 'Todolist' and 'Counter' made for the IT-Incubator company. As well as my own projects and freelance projects
