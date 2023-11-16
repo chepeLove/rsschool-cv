@@ -56,5 +56,21 @@ export const taskAPI = {
 
 
 ## Experience
+- IT-INCUBATOR: Front-End Development: _Internship and mentoring_
+- On my [GitHub](https://github.com/chepeLove "GitHub") you can find the projects 'Social Network', 'Todolist' and 'Counter' made for the IT-Incubator company. As well as my own projects and freelance projects
 
-On my [GitHub](https://github.com/chepeLove "GitHub") you can find the projects 'Social Network', 'Todolist' and 'Counter' made for the IT-Incubator company. As well as my own projects and freelance projects
+## Education
+
+Belarusian State Technological University
+
+Engineer's degree,
+Chemical technology of inorganic substances  
+2016-2021
+
+## Courses
+- IT-INCUBATOR: Front-End Development: _Studying since July 2023_
+
+## Languages
+
+- Russian - native speaker
+- English - A2+
